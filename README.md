@@ -6,7 +6,7 @@
 
 <a href="https://github.com/danielmares32">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmares32&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmares32&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmares32&hide=jupyter notebook&langs_count=10&layout=compact" />
 </a>
 
 <!---

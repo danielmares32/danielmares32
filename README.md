@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Mares Esparza
 - 👀 I’m interested in develoging software
-- 🌱 I’m currently learning kotlin, laravel, nodejs, vuejs, angular, blockchain technology
+- 🌱 I’m currently learning nestjs, .net core, nodejs, vuejs, angular, react, kotlin, blockchain technology
 - 💞️ I’m looking to collaborate on everything related for a better future
 - 📫 How to reach me? twitter @danielmares32
 
